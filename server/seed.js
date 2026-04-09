@@ -17,7 +17,11 @@ import Review from './models/Review.js';
 dotenv.config();
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const MONGO_URI = process.env.MONGO_URI || 'mongodb+srv://rooney:vishnu@clg-org.mfzgumx.mongodb.net/campusroast?retryWrites=true&w=majority';
+const MONGO_URI = process.env.MONGO_URI;
+if (!MONGO_URI) {
+  console.error("❌ Seed failed: MONGO_URI not found in .env");
+  process.exit(1);
+}
 
 const teachersRaw = JSON.parse(
   readFileSync(join(__dirname, '../client/src/data/teachers.json'), 'utf-8')
