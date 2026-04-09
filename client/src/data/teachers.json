@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Harinarayanan N H",
+    "subject": "CIVIL ENGINEERING",
+    "designation": "HOD",
+    "gender": "Unknown",
+    "imgUrl": "https://www.thejusengg.com/uploads/department/main/IMG-20250821-WA0027.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ms Megha K K",
+    "subject": "CIVIL ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/IMG_20190427_094256_-_Ms_Megha_K_K.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ms Lakshmi Mohan",
+    "subject": "CIVIL ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/IMG_20180417_201256_-_Ms_Lakshmi_Mohan.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ms Radhika V",
+    "subject": "CIVIL ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/IMG_20190125_103718_-_Radhika_V(1).jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ms Sreedevi P S",
+    "subject": "CIVIL ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Sreedevi_P_S.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ms Niranjana K",
+    "subject": "CIVIL ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Niranjana_1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ms Remya P M",
+    "subject": "CIVIL ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Remya.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Ms Iyrin John",
+    "subject": "CIVIL ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Iyrin.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Mr. Krishnanunni U",
+    "subject": "CIVIL ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/IMG-20260202-WA0033.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ms Deepa P D",
+    "subject": "CIVIL ENGINEERING",
+    "designation": "Lab Instructor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/20190215221521_IMG_7280_-_Deepa_P_D.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Ms Vinitha A V",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/1546_Vinitha_-_Vinitha_A_V.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Mr. Sreejith U S",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "System Manager",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/sreejith_u_s.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Ms Sneha Johnson",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/sneha_5.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Ms Soumya P",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Soumya_Sunish.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Ms Wilny wilson",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/20190213_132946_-_Wilny_Wilson.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Ms Jinsha C j",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Jinsha.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Ms Sudharma G",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Sudharma_CSE.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Ms Heera B M",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Heera_CSE.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Ms Sabitha C.B",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Sabitha-photo.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Ms Blessy Varghese",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Blessy.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Ms Densy David E",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Densy_photo.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Ms Sibi Sasidharan",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Sibi.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Ms Jiji P",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Jiji_CSE_Photo.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Ms Lidhi P",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Lidhi.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Ms Beeta Narayan",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Beeta.JPG"
+  },
+  {
+    "id": 26,
+    "name": "Ms Rejitha P",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Lab Instructor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Rejitha_photo2.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Mr. Revi V P",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Lab Instructor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Revi_V_P_Passport.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Mr. Vinod K",
+    "subject": "COMPUTER SCIENCE AND ENGINEERING",
+    "designation": "Lab Instructor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/IMG-20260202-WA0013.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Mr. Vipin Krishna R",
+    "subject": "ELECTRICAL ELECTRONICS ENGINEERING",
+    "designation": "HOD",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/department/main/Vipin_Krishna_photo.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Mr. Vipin Krishna R",
+    "subject": "ELECTRICAL ELECTRONICS ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Vipin_Krishna_photo.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Ms Adhipa K R",
+    "subject": "ELECTRICAL ELECTRONICS ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/adhipa.jpeg"
+  },
+  {
+    "id": 32,
+    "name": "Ms Sariga Kunnath L",
+    "subject": "ELECTRICAL ELECTRONICS ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Ms._Sariga_Kunnath_.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Ms Roshima T V",
+    "subject": "ELECTRICAL ELECTRONICS ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Roshima.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Ms Sreni M S",
+    "subject": "ELECTRICAL ELECTRONICS ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Sreni.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Mr. Vasudev Ambath S",
+    "subject": "ELECTRICAL ELECTRONICS ENGINEERING",
+    "designation": "Lab Instructor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Vasudev.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Dr. Jerin Johnkutty",
+    "subject": "MECHANICAL ENGINEERING",
+    "designation": "HOD",
+    "gender": "Unknown",
+    "imgUrl": "https://www.thejusengg.com/uploads/department/main/Warm_professional_headshot_in_office_setting.png"
+  },
+  {
+    "id": 37,
+    "name": "Mr. Jerin Johnkutty",
+    "subject": "MECHANICAL ENGINEERING",
+    "designation": "Assistant Professor and HOD (In charge)",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Jerin_Photo_(new).jpg"
+  },
+  {
+    "id": 38,
+    "name": "Mr. Jakson K T",
+    "subject": "MECHANICAL ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/JAKSON__K_T_-_Jakson_Kaitharath.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Mr. Albin Francis",
+    "subject": "MECHANICAL ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Albin_Francis.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Mr. Gracious Arun",
+    "subject": "MECHANICAL ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Gray.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Mr. Sakthidhar K",
+    "subject": "MECHANICAL ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Sakthi.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Ms Aiswarya K Prakasan",
+    "subject": "MECHANICAL ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Aiswarya_photo.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Mr. Prakasan N P",
+    "subject": "MECHANICAL ENGINEERING",
+    "designation": "Workshop Superintendent",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/prakashan.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Mr. Kesavan K",
+    "subject": "MECHANICAL ENGINEERING",
+    "designation": "Lab Attender",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/kesavan_-_RAHUL_M_S.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Mr. Manikandan S",
+    "subject": "MECHANICAL ENGINEERING",
+    "designation": "Trade Instructor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/manikandan_s.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Mr. Balasubramanian R",
+    "subject": "MECHANICAL ENGINEERING",
+    "designation": "Lab Instructor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Photo_-_Mr__R_Balasubramanian.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Mr. Joshi B V",
+    "subject": "MECHANICAL ENGINEERING",
+    "designation": "Lab Instructor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Joshi_Sir_Photo.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Mr. Vidyadharan P M",
+    "subject": "MECHANICAL ENGINEERING",
+    "designation": "Trade Instructor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Vidhyadharan.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Dr. Arul V H",
+    "subject": "ELECTRONICS COMPUTER ENGINEERING",
+    "designation": "HOD",
+    "gender": "Unknown",
+    "imgUrl": "https://www.thejusengg.com/uploads/department/main/arul_photo1.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Mr. Jeejo K P",
+    "subject": "ELECTRONICS COMPUTER ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Jeejo.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Ms. Varnya C",
+    "subject": "ELECTRONICS COMPUTER ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Varnya_C.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Ms Aswathi Menon",
+    "subject": "ELECTRONICS COMPUTER ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/aswathi_menon.jpeg"
+  },
+  {
+    "id": 53,
+    "name": "Ms Shahanas Kassim",
+    "subject": "ELECTRONICS COMPUTER ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Shahanas.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Ms Joshni C George",
+    "subject": "ELECTRONICS COMPUTER ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Joshny.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Ms Soumya M K",
+    "subject": "ELECTRONICS COMPUTER ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Soumya_M_K.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Mr. Vijith P R",
+    "subject": "ELECTRONICS COMPUTER ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Vijith_Photo.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Mr. Soundrarajan",
+    "subject": "ELECTRONICS COMPUTER ENGINEERING",
+    "designation": "Lab Instructor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/SoundarRaj.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Mr. Jeejo K P",
+    "subject": "ELECTRONICS COMMUNICATION ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/jeejo.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Mr. Arul V.H",
+    "subject": "ELECTRONICS COMMUNICATION ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/arul.png"
+  },
+  {
+    "id": 60,
+    "name": "Ms Varnya C",
+    "subject": "ELECTRONICS COMMUNICATION ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/90123_Varnya_-_varnya_c.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Ms Remya Krishna J S",
+    "subject": "ELECTRONICS COMMUNICATION ENGINEERING",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/remya_krishna_-_Remya_Krishna___J_S1.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Mr. Soundrarajan. C.A.",
+    "subject": "ELECTRONICS COMMUNICATION ENGINEERING",
+    "designation": "Lab Instructor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/soundrarajan.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Mr. Rajendraprasad A S",
+    "subject": "PHYSICAL EDUCATION",
+    "designation": "HOD",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/department/main/raj.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Ms Divya C G",
+    "subject": "APPLIED SCIENCE AND HUMANITIES",
+    "designation": "HOD",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/department/main/divya_cg_hod.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Mr. Dhaneshkumar C M",
+    "subject": "APPLIED SCIENCE AND HUMANITIES",
+    "designation": "Assistant Professor",
+    "gender": "Male",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/DHANESH_KUMAR_C_M.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Ms Preetha P",
+    "subject": "APPLIED SCIENCE AND HUMANITIES",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/PREETHA_PHOTO_-_Mrs_Preetha_P.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Ms Reeja Sajith",
+    "subject": "APPLIED SCIENCE AND HUMANITIES",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/REEJA_-_Mrs_Reeja_Sachith.jpg"
+  },
+  {
+    "id": 68,
+    "name": "Ms Divya C G",
+    "subject": "APPLIED SCIENCE AND HUMANITIES",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/DIVYA_C_G.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Ms Divya V M",
+    "subject": "APPLIED SCIENCE AND HUMANITIES",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/DIVYA_V_M.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Ms Gana K U",
+    "subject": "APPLIED SCIENCE AND HUMANITIES",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/GANA_K_U.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Ms Rachana K G",
+    "subject": "APPLIED SCIENCE AND HUMANITIES",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Rachana_ASH.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Ms Rekha K. Ravi",
+    "subject": "APPLIED SCIENCE AND HUMANITIES",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Rekha_K_Ravi_passport.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Ms Meenu P C",
+    "subject": "APPLIED SCIENCE AND HUMANITIES",
+    "designation": "Assistant Professor",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/Meenu_Photo_copy.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Ms Kavitha Jayesh",
+    "subject": "APPLIED SCIENCE AND HUMANITIES",
+    "designation": "Lab Assistant",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/AD38.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Ms Baseela I B",
+    "subject": "APPLIED SCIENCE AND HUMANITIES",
+    "designation": "Lab Assistant",
+    "gender": "Female",
+    "imgUrl": "https://www.thejusengg.com/uploads/faculty/main/BASEELA_I_B.jpg"
+  }
+]
